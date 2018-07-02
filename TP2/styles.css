@@ -11,21 +11,22 @@ h2 {
     color :#4BB5C1;
 }
 
-li {
-    display: inline-block;
-    padding: 10px;
+nav li {
     text-align: center;
     border: 2px solid #660000;
     background-color: #C03000;
+    display: inline-block;
 }
 
-li:hover {
+nav li:hover, nav li a:focus {
     background-color: #009900;
 }
 
-li a {
+nav li a {
     color: white;
+    padding: 10px;
     text-decoration: none;
+    display: inline-block;
 }
 
 footer a {
