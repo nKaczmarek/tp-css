@@ -1,0 +1,31 @@
+body{
+    background-color: #000099;
+    font-family: 'Helvetica', 'Arial';
+    text-align: center;
+}
+h1 {
+    color: #ffffff;
+}
+
+ul {
+    margin-right: 40px;;
+    list-style:none;
+}
+
+li { 
+    border-radius: 3px;
+    padding: 10px 10px 10px 10px;
+    margin-bottom: 10px; 
+    text-align: center; 
+    background-color: #ffffff;
+}
+
+input[type="text"]{
+    padding: 10px 10px 10px 10px;
+    border-radius: 5px;
+}
+
+input[type="submit"]{
+    padding: 10px 10px 10px 10px;
+    border-radius: 8px;
+}
