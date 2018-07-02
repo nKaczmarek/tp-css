@@ -8,24 +8,24 @@ h1 {
 }
 
 ul {
-    margin-right: 40px;;
+    margin-right: 40px;
     list-style:none;
 }
 
-li { 
-    border-radius: 3px;
-    padding: 10px 10px 10px 10px;
+li.item { 
+    border-radius: 5px;
+    padding: 10px;
     margin-bottom: 10px; 
     text-align: center; 
     background-color: #ffffff;
 }
 
 input[type="text"]{
-    padding: 10px 10px 10px 10px;
-    border-radius: 5px;
+    padding: 10px;
+    border-radius: 3px;
 }
 
 input[type="submit"]{
-    padding: 10px 10px 10px 10px;
+    padding: 10px;
     border-radius: 8px;
 }
